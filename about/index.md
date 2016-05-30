@@ -9,9 +9,9 @@ date: 2016-03-21
 
 {% capture images %}
     https://scontent-sin1-1.xx.fbcdn.net/v/t1.0-9/12814451_488257274690882_3104528264272872006_n.jpg?oh=97a15d4159ac9ba6c701b04ca261a75b&oe=57C137CD
-    https://scontent-sin1-1.xx.fbcdn.net/v/t1.0-9/11700855_415859128597364_8142375166423869713_n.jpg?oh=4a7783b61e503034a7fb35fc63e96b2b&oe=57E4A624
+    https://scontent-sin1-1.xx.fbcdn.net/v/t1.0-9/11215169_471130766403533_334591683218382629_n.jpg?oh=87c5b049ae785567187b7c904caa75d9&oe=57CDE51E
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+
 
 ## Biography
 * Nama : Rangga Arief Putra

@@ -23,8 +23,8 @@ date: 2016-03-21
 * Motto : Nobody Perfect, Do What I Want To Do
 
 
-## Getting Started
+## Greatings
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+Halo. Perkenalkan Saya Rangga Arief Putra, sering dipanggil dengan nama Rangga. Saya seorang mahasiswa <a href="htpp://uin-suska.ac.id/">uin Suska Riau</a> jurusan <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a> fakultas <a href="http://fst.uin-suska.ac.id/">Sains dan teknologi</a>.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+<center>(https://github.com/TaylanTatli/Moon){: .btn}</center>

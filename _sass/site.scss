@@ -21,7 +21,7 @@ body {
 	background-attachment: fixed;
 	@media #{$small} {
 	    background-image: none !important;
-		background: $black;
+		background: $white;
 	}
 }
 * {
@@ -39,7 +39,7 @@ body {
 	width: 100%;
 	min-height: 300px;
 	text-align: left;
-	color: $white;
+	color: $black;
 	@media #{$small} {
 		display: block !important;
 	}
@@ -107,7 +107,7 @@ body {
 	background: $white;
 	color: $color_tuatara;
 	padding: 2em;
-	border-radius: 3px;
+	border-radius: 5px;
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
 	@include transition(.5s);
 	@media #{$small} {

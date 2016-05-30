@@ -29,8 +29,8 @@ date: 2016-03-21
 Halo. Perkenalkan Saya Rangga Arief Putra, sering dipanggil dengan nama Rangga. Saya seorang mahasiswa <a href="htpp://uin-suska.ac.id/">uin Suska Riau</a> jurusan <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a> fakultas <a href="http://fst.uin-suska.ac.id/">Sains dan teknologi</a>. Saya Lahir di Pekanbaru, 18 Agustus 1995. Meskipun lahir di pekanbaru tapi dari kecil saya dibesarkan disebuah kota yang bernama Kota Duri. Kota kecil yang bagi saya banyak kenangan disana. Memiliki orangtua yang bagi saya adalah segalanya dan adik adik yang sangat saya sayangi meski mereka terkadang suka bikin saya kesal untuk sesaat.
 
 <audio controls> 
-<source src="File_Lagu.ogg" type="audio/ogg"> 
-<source src="File_Lagu.mp3" type="audio/mpeg"> 
-<audio>
+<source src="Police.wav" type="audio/ogg"> 
+<source src="Police.wav" type="audio/mpeg"> 
+</audio>
       
 <b>Happy Blogging, Terimakasih</b>

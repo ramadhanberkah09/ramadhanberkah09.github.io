@@ -11,7 +11,7 @@ date: 2016-03-21
     https://scontent-sin1-1.xx.fbcdn.net/v/t1.0-9/12814451_488257274690882_3104528264272872006_n.jpg?oh=97a15d4159ac9ba6c701b04ca261a75b&oe=57C137CD
     https://scontent-sin1-1.xx.fbcdn.net/v/t1.0-9/11215169_471130766403533_334591683218382629_n.jpg?oh=87c5b049ae785567187b7c904caa75d9&oe=57CDE51E
 {% endcapture %}
-
+{% include gallery images=images cols=2 %}
 
 ## Biography
 * Nama : Rangga Arief Putra
@@ -27,4 +27,4 @@ date: 2016-03-21
 
 Halo. Perkenalkan Saya Rangga Arief Putra, sering dipanggil dengan nama Rangga. Saya seorang mahasiswa <a href="htpp://uin-suska.ac.id/">uin Suska Riau</a> jurusan <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a> fakultas <a href="http://fst.uin-suska.ac.id/">Sains dan teknologi</a>.
       
-<center>(https://github.com/TaylanTatli/Moon){: .btn}</center>
+(https://ranggaariefp.github.io){: .btn}

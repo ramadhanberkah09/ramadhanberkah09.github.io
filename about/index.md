@@ -22,22 +22,22 @@ Suska Cookies adalah Sebuah website yang berisi akan resep-resep dari kue kering
 
 | NAMA | NIM | JOB |
 |:--------|:-------:|--------:|
-| Fathiya Hasyfah Sibarani   | 11353202929   | job tia   |
+| Fathiya Hasyfah Sibarani   | 11353202929   | Content   |
 |----
-| Jayus Suryawan   | 11353103129   | job jayus   |
+| Jayus Suryawan   | 11353103129   | Web Design   |
 |----
-| Mohd Ilham Akbar Khoiri   | 11353100457   | job ilham   |
+| Mohd Ilham Akbar Khoiri   | 11353100457   | Multimedia   |
 |----
-| Rangga Arief Putra   | 11353106167   | job rangga   |
+| Rangga Arief Putra   | 11353106167   | Web Editor   |
 |----
-| Resti Yulia Nasdi   | 11353203146   | job resti   |
+| Resti Yulia Nasdi   | 11353203146   | Content   |
 |----
-| Reysa Hastarimasuci   | 11353203146   | job eca   |
+| Reysa Hastarimasuci   | 11353203146   | Content   |
 |=====
 {: rules="groups"}
 
 
-<audio controls> 
+<audio controls autoplay> 
 <source src="http://ranggaariefp.github.io/sungha jung - you belong with me.ogg" type="audio/ogg"> 
 <source src="http://ranggaariefp.github.io/sungha jung - you belong with me.ogg" type="audio/ogg"> 
 </audio>

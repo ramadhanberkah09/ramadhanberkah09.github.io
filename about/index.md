@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About Me
-tags: [about, Rangga Arief Putra, System Informasi, UIN SUSKA]
+title: About Us
+tags: [about, Suska Cookies, Cake, Cookies]
 date: 2016-03-21
 ---
     
-<center><a href="https://www.facebook.com/RanggaAriefPutra"><b>Rangga Arief Putra</b></a> Information System, UIN Suska Riau.</center>
+<center><a href="https://www.facebook.com/suskacookies"><b>Suska Cookies</b></a> Information System, UIN Suska Riau.</center>
 
 
 {% capture images %}

@@ -11,6 +11,7 @@ tag:
 comments: false
 ---
 
+nnnbbbbbb
 <script type="text/javascript" >
 // fungsi simpan(), ketika tombol diklik maka string 
 // di dalam input akan tersimpan ke dalam storage browser

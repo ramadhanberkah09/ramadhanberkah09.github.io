@@ -20,11 +20,20 @@ Suska Cookies adalah Sebuah website yang berisi akan resep-resep dari kue kering
 
 ## Biography Owner dan Staff
 
+| NAMA | NIM | JOB |
 |:--------|:-------:|--------:|
-| Nama   | cell2   | cell3   |
-| NIM   | cell5   | cell6   |
-| Job   | cell5   | cell6   |
+| fathiya hasyfah sibarani   | cell2   | cell3   |
 |----
+| jayus suryawan   | cell2   | cell3   |
+|----
+| mohd ilham akbar khoiri   | cell2   | cell3   |
+|----
+| rangga arief putra   | cell2   | cell3   |
+|----
+| Resti yulia nasdi   | cell2   | cell3   |
+|----
+| reysa hastarimasuci   | cell2   | cell3   |
+|=====
 {: rules="groups"}
 
 * Nama : Rangga Arief Putra

@@ -14,7 +14,13 @@ date: 2016-03-21
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 
-## Biography
+## Greatings
+Suska Cookies adalah Sebuah website yang berisi akan resep-resep dari kue kering maupun resep dari kue basah. Resep yang kami sajikan adalah resep yang lengkap dari mulai bahan untuk membuat cake & cookies sampai dengan cara pembuatan lengkap dengan vidio yang akan sangat membantu anda dalam mempraktekkan resep dari website kami dirumah anda. Selamat berkarya dengan resep yang kami sajikan. Kritik dan Saran anda sangat membantu kami. Terimakasih
+
+
+## Biography Owner dan Staff
+<table>
+<tr><td>
 * Nama : Rangga Arief Putra
 * TTL : Pekanbaru, 18 August 1995 
 * Kelas : SIF’B 
@@ -22,17 +28,18 @@ date: 2016-03-21
 * Fakultas : Sains dan Teknologi
 * Universitas : UIN Suska Riau
 * Motto : Nobody Perfect, Do What I Want To Do
-
-
-## Greatings
-
-Halo. Perkenalkan Saya Rangga Arief Putra, sering dipanggil dengan nama Rangga. Saya seorang mahasiswa <a href="htpp://uin-suska.ac.id/">uin Suska Riau</a> jurusan <a href="http://sif.uin-suska.ac.id">Sistem Informasi</a> fakultas <a href="http://fst.uin-suska.ac.id/">Sains dan teknologi</a>. Saya Lahir di Pekanbaru, 18 Agustus 1995. Meskipun lahir di pekanbaru tapi dari kecil saya dibesarkan disebuah kota yang bernama Kota Duri. Kota kecil yang bagi saya banyak kenangan disana. Memiliki orangtua yang bagi saya adalah segalanya dan adik adik yang sangat saya sayangi meski mereka terkadang suka bikin saya kesal untuk sesaat.
+</td><td>
+* Nama : Rangga Arief Putra
+* TTL : Pekanbaru, 18 August 1995 
+* Kelas : SIF’B 
+* Jurusan : Sistem Informasi 2013
+* Fakultas : Sains dan Teknologi
+* Universitas : UIN Suska Riau
+* Motto : Nobody Perfect, Do What I Want To Do
+</td></tr>
+</table>
 
 <audio controls> 
 <source src="http://ranggaariefp.github.io/Police.wav" type="audio/wav"> 
 <source src="http://ranggaariefp.github.io/Police.wav" type="audio/mpeg"> 
 </audio>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3NlbIEu6W-Y" frameborder="0" allowfullscreen></iframe>
-      
-<b>Happy Blogging, Terimakasih</b>

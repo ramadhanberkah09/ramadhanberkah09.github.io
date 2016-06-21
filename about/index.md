@@ -20,9 +20,9 @@ Suska Cookies adalah Sebuah website yang berisi akan resep-resep dari kue kering
 
 ## Biography Owner dan Staff
 
-|:--------|--------:|
-| cell1   | cell3   |
-| cell4   | cell9   |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
 |----
 {: rules="groups"}
 
@@ -35,6 +35,6 @@ Suska Cookies adalah Sebuah website yang berisi akan resep-resep dari kue kering
 * Motto : Nobody Perfect, Do What I Want To Do
 
 <audio controls> 
-<source src="sungha jung - you belong with me.ogg" type="audio/ogg"> 
-<source src="sungha jung - you belong with me.ogg" type="audio/ogg"> 
+<source src="http://ranggaariefp.github.io/sungha jung - you belong with me.ogg" type="audio/ogg"> 
+<source src="http://ranggaariefp.github.io/sungha jung - you belong with me.ogg" type="audio/ogg"> 
 </audio>

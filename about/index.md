@@ -32,7 +32,7 @@ Suska Cookies adalah Sebuah website yang berisi akan resep-resep dari kue kering
 |----
 | Resti Yulia Nasdi   | 11353203146   | Content   |
 |----
-| Reysa Hastarimasuci   | 11353203146   | Content   |
+| Reysa Hastarimasuci   | 11353203146   | Editor   |
 |=====
 {: rules="groups"}
 

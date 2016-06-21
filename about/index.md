@@ -18,20 +18,8 @@ date: 2016-03-21
 Suska Cookies adalah Sebuah website yang berisi akan resep-resep dari kue kering maupun resep dari kue basah. Resep yang kami sajikan adalah resep yang lengkap dari mulai bahan untuk membuat cake & cookies sampai dengan cara pembuatan lengkap dengan vidio yang akan sangat membantu anda dalam mempraktekkan resep dari website kami dirumah anda. Selamat berkarya dengan resep yang kami sajikan. Kritik dan Saran anda sangat membantu kami. Terimakasih
 
 
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
 ## Biography Owner dan Staff
+
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |

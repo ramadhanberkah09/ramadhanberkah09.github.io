@@ -20,7 +20,7 @@ Suska Cookies adalah Sebuah website yang berisi akan resep-resep dari kue kering
 
 ## Biography Owner dan Staff
 
-|:--------|--------:|
+|:--------|:-------:|
 | cell1   | cell3   |
 | cell4   | cell6   |
 |----

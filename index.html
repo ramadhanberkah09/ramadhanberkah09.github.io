@@ -4,7 +4,8 @@ title: Home
 comments: false
 ---
 
-// Store
-localStorage.setItem("lastname", "Smith");
-// Retrieve
-document.getElementById("result").innerHTML = localStorage.getItem("lastname");
+<script>
+    localStorage.myText = 'ini adalah tulisan dari localStorage';
+ 
+document.getElementById("text").innerHTML= localStorage.myText;
+</script>

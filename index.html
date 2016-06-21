@@ -4,6 +4,13 @@ title: Home
 comments: false
 ---
 
-    localStorage.myText = 'ini adalah tulisan dari localStorage';
- 
-document.getElementById("text").innerHTML= localStorage.myText;
+<script>
+if(typeof(Storage)!==”undefined”)
+{
+localStorage.lastname=”Smith”;
+document.getElementById(“result”).innerHTML=”Last name: ” + localStorage.lastname;
+}
+{
+document.getElementById(“result”).innerHTML=”Sorry, your browser does not support web storage…”;
+}
+</script>

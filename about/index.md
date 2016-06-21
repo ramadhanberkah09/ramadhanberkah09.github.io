@@ -28,7 +28,7 @@ Suska Cookies adalah Sebuah website yang berisi akan resep-resep dari kue kering
 |----
 | Mohd Ilham Akbar Khoiri   | 11353100457   | Multimedia   |
 |----
-| Rangga Arief Putra   | 11353106167   | Web Editor   |
+| Rangga Arief Putra   | 11353106167   | Web Programmer   |
 |----
 | Resti Yulia Nasdi   | 11353203146   | Content   |
 |----

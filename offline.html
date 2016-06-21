@@ -4,6 +4,18 @@ title: "Offline"
 permalink: /offline.html
 ---
 
-<iframe style="width: 830px; height: 810px; border: 0" scrolling="no" frameborder="0" src="https://www.flappybird.in/framed.php"></iframe>
+<script>
+        $(function() {
+            init()
+            // $( "canvas" ).on( "gameEnd", function(e) {
+            //     console.log('game over')
+            // });
+            $( "canvas").trigger( "gameEnd");
+
+        })
+    </script>
+<script type="text/javascript" src="http://speedy.gamesads.io/coreads.js"></script>
+<canvas id="testCanvas" width="768" height="1024">
+</canvas>
 <p>There doesn't appear to be anything here. Sorry about that.</p>
 <p>If you've followed a link expecting something to be here, you can <a href="mailto:{{ site.email }}?subject=Page%20not%20found">contact me</a>.</p>

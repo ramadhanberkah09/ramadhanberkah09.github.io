@@ -25,10 +25,6 @@ Suska Cookies adalah Sebuah website yang berisi akan resep-resep dari kue kering
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
 |----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
 {: rules="groups"}
 
 * Nama : Rangga Arief Putra

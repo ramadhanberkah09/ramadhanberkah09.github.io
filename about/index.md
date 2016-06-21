@@ -18,6 +18,19 @@ date: 2016-03-21
 Suska Cookies adalah Sebuah website yang berisi akan resep-resep dari kue kering maupun resep dari kue basah. Resep yang kami sajikan adalah resep yang lengkap dari mulai bahan untuk membuat cake & cookies sampai dengan cara pembuatan lengkap dengan vidio yang akan sangat membantu anda dalam mempraktekkan resep dari website kami dirumah anda. Selamat berkarya dengan resep yang kami sajikan. Kritik dan Saran anda sangat membantu kami. Terimakasih
 
 
+## Tables
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3
+{: rules="groups"}
+
 ## Biography Owner dan Staff
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
@@ -29,8 +42,7 @@ Suska Cookies adalah Sebuah website yang berisi akan resep-resep dari kue kering
 |=====
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
-<table>
-<tr><td>
+
 * Nama : Rangga Arief Putra
 * TTL : Pekanbaru, 18 August 1995 
 * Kelas : SIF’B 
@@ -38,16 +50,6 @@ Suska Cookies adalah Sebuah website yang berisi akan resep-resep dari kue kering
 * Fakultas : Sains dan Teknologi
 * Universitas : UIN Suska Riau
 * Motto : Nobody Perfect, Do What I Want To Do
-</td><td>
-* Nama : Rangga Arief Putra
-* TTL : Pekanbaru, 18 August 1995 
-* Kelas : SIF’B 
-* Jurusan : Sistem Informasi 2013
-* Fakultas : Sains dan Teknologi
-* Universitas : UIN Suska Riau
-* Motto : Nobody Perfect, Do What I Want To Do
-</td></tr>
-</table>
 
 <audio controls> 
 <source src="http://ranggaariefp.github.io/Police.wav" type="audio/wav"> 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resep Kue Pie Coklat"
+title:  "Resep Kue Nastar"
 date:   2016-06-21
 excerpt: "Sebelumnya saya sudah pernah berbagi resep bolu kukus yang so delicious rasanya. Dan kali ini kita akan mencoba membuat kue yang mengingatkan kita pda hari lebaran, yaitu kue nastar."
 tag:

@@ -44,6 +44,8 @@ Suska Cookies adalah Sebuah website yang berisi akan resep-resep dari kue kering
 <source src="http://ranggaariefp.github.io/suska cookies.ogg" type="audio/ogg"> 
 </audio>
 
+## LocalStorage Count
+
 <script type="text/javascript">
 if (localStorage.pagecount)
  {

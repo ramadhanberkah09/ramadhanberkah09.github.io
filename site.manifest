@@ -1,0 +1,32 @@
+CACHE MANIFEST
+# version 0.1
+
+index.html
+offline.html
+
+favicon.ico
+favicon.png
+
+sungha jung - you belong with me.ogg
+
+assets/img/cake1.jpg
+assets/img/cookies1.jpg
+assets/img/logo.png
+assets/img/placeholder-big.jpg
+
+assets/css/main.scss
+
+assets/fonts/fontawesome-webfont.eot
+assets/fonts/fontawesome-webfont.svg
+assets/fonts/fontawesome-webfont.ttf
+assets/fonts/fontawesome-webfont.woff
+assets/fonts/fontawesome-webfont.woff2
+
+assets/js/jquery-1.12.0.min.js
+assets/js/jquery.dlmenu.min.js
+assets/js/jquery.fitvid.min.js
+assets/js/jquery.goup.min.js
+assets/js/jquery.magnific-popup.min.js
+assets/js/modernizr-3.3.1.custom.min.js
+assets/js/scripts.js
+assets/js/wow.min.js

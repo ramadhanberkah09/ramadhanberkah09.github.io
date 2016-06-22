@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Resep Kue Putri Salju"
-date:   2016-03-15
+date:   2016-06-21
 excerpt: "Kue yang satu ini merupakan kue yang paling banyak digemari, terutama pada saat lebaran tiba. Mengingat sebentar lagi mau lebaran, kue putri salju ini bisa anda jadikan sebagai jamuan untuk para tamu."
 tag:
 - suska cookies 

@@ -39,7 +39,7 @@ Yang ngakunya pecinta coklat harus bisa nih buat kue satu ini, agar menambah var
 * 50 gram kacang mede, disangrai dan dicincang kasar
 
  
-## Cara mudah membuat kue putri salju
+## Cara mudah membuat kue
 
 * Kocok margarin dan gula tepung selama 30 detik samapi mengembang.
 * Masukan selai kacang dan garam. Kocok rata.

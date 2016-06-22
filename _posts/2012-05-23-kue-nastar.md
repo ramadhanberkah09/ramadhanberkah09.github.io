@@ -2,7 +2,7 @@
 layout: post
 title:  "Resep Kue Pie Coklat"
 date:   2016-06-21
-excerpt: "Begitu terkenalnya pie ini sehingga banyak wisatawan yang berkunjung di pulau Bali membawa oleh oleh pie susu Bali yang sangat terkenal tersebut."
+excerpt: "Sebelumnya saya sudah pernah berbagi resep bolu kukus yang so delicious rasanya. Dan kali ini kita akan mencoba membuat kue yang mengingatkan kita pda hari lebaran, yaitu kue nastar."
 tag:
 - suska cookies 
 - cookies

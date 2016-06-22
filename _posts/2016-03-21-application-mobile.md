@@ -13,6 +13,32 @@ tag:
 comments: false
 ---
 
+## Local Storage Count
+<script type="text/javascript">
+if (localStorage.pagecount)
+ {
+localStorage.pagecount=Number(localStorage.pagecount) +1;
+ }
+else
+{
+localStorage.pagecount=1;
+}
+document.write("Halaman ini baru Anda kunjungi sebanyak "+ localStorage.pagecount + " kali.");
+</script>
+```
+<script type="text/javascript">
+if (localStorage.pagecount)
+ {
+localStorage.pagecount=Number(localStorage.pagecount) +1;
+ }
+else
+{
+localStorage.pagecount=1;
+}
+document.write("Halaman ini baru Anda kunjungi sebanyak "+ localStorage.pagecount + " kali.");
+</script>
+```
+
 ## Application Cache On HTML5
 
 HTML5 saat ini memberikan keleluasaan bagi developer untuk dapat data situsnya pada client, jadi ketika client offline sekalipun , situs masih bisa dibuka.

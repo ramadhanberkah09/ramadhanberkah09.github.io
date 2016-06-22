@@ -49,6 +49,6 @@ Yang ngakunya pecinta coklat harus bisa nih buat kue satu ini, agar menambah var
 * Giling adonan. Cetak kue kering kacang coklat sesuai selera anda.
 * Letakkan di loyang yang dioles margarin Oven 30 menit denganapi bawah suhu 150 derajat Celcius sampai matang.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/het0PsUEMTc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jUZN6R4T-W8" frameborder="0" allowfullscreen></iframe>
 
 Mengingat sebentar lagi mau lebaran, kue kering coklat tanah merupakan cookies yang paling pas untuk dihidangkan pada momen tersebut. Happy cooking

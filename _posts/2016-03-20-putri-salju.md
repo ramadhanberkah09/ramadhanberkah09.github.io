@@ -1,112 +1,42 @@
 ---
 layout: post
-title:  "Markdown Syntax"
+title:  "Resep Kue Putri Salju"
 date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "Kue yang satu ini merupakan kue yang paling banyak digemari, terutama pada saat lebaran tiba. Mengingat sebentar lagi mau lebaran, kue putri salju ini bisa anda jadikan sebagai jamuan untuk para tamu."
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
-comments: true
+- suska cookies 
+- cookies
+- cakek
+- kue
+- putri salju
+comments: false
 ---
 
-## HTML Elements
+Kue yang satu ini merupakan kue yang paling banyak digemari, terutama pada saat lebaran tiba. Mengingat sebentar lagi mau lebaran, kue putri salju ini bisa anda jadikan sebagai jamuan untuk para tamu.
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Resep kue sebelumnya yang pernah saya bagikan adalah resep kue tart ulang tahun sederhana. Dan resep selanjutnya yang akan kita coba hari ini adalah resep membuat kue putri salju yang lembut dan lumer sekali di mulut.
 
-# Heading 1
+resep lengkap cara membuat kue putri salju sederhana
 
-## Heading 2
+## Bahan-bahan:
 
-### Heading 3
+*1 kg tepung terigu
+*750 gram mentega
+*25 gram susu bubuk
+*150 gram keju
+*1 sdm roombutter
+*2 sdm gula halus
+*1/2 sdt vanili
+*5 butir  kuning telur
+*150 gram gula halus untuk taburan kue
+*Keju secukupnya untuk taburan kue
 
-#### Heading 4
+ 
+## Cara mudah membuat kue putri salju
 
-##### Heading 5
+*Masukkan semua bahan ke dalam wadah berukuran besar, kemudian campur dan aduk semua bahan tersebut hingga lembut. Setelah itu, parut keju ke dalam adonan dan aduk kembali hingga tercampur rata.
+*Giling/ pipihkan adonan, lalu cetak berbentuk bulan sabit atau bentuk lainnya yang anda sukai. Kemudian letakkan ke dalam loyang yang telah diolesi dengan mentega. Bentuk semua adonan hingga habis. 
+*Panggang selama 30 menit ke dalam oven dengan suhu 150 °C atau ke dalam panci pengukus menggunakan api sedang.
+*Setelah matang, angkat, diamkan sebentar, lalu taburi dengan gula halus dan keju secukupnya. Tanpa ditaburi kejupun juga enak kok. Masukkan ke dalam toples dan kue putri salju pun sudah siap dinikmati.
 
-###### Heading 6
-
-### Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
-
-## KBD
-
-You can also use `<kbd>` tag for keyboard buttons.
-
-{% highlight html %}
-<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd>
-{% endhighlight %}
-
-Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midtown Maddness!!**
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+Mengingat sebentar lagi mau lebaran, kue salju merupakan cookies yang paling pas untuk dihidangkan pada momen tersebut. Semoga anda berhasil membuat kue salju yang lezat ini dengan bantuan resep yang saya bagikan di atas. Happy cooking

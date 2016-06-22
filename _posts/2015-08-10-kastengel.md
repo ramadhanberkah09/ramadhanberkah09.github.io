@@ -32,7 +32,7 @@ Cara membuat kastengal dengan cara dipanggang di dalam oven hingga berwana kunin
 * 2 butir kuning telur
 
  
-## Cara mudah membuat kue putri salju
+## Cara mudah membuat kue
 
 * Pertama-tama kocok roombutter dan margarin hingga lembut, kemudian tambahkan tiga kuning telur satu per satu kedalamnya sambil dikocok hingga merata.
 * Setelah itu masukkan tepung terigu secara bertahap sambil terus diaduk agar lebih rata, kemudian masukkan parutan keju edam, aduk lagi hingga rata.

@@ -12,7 +12,7 @@ tag:
 comments: false
 ---
 
-Kue yang satu ini merupakan kue yang paling banyak digemari, terutama pada saat lebaran tiba. Mengingat sebentar lagi mau lebaran, kue putri salju ini bisa anda jadikan sebagai jamuan untuk para tamu.
+<b>Resep Kue Putri Salju</b> - Kue yang satu ini merupakan kue yang paling banyak digemari, terutama pada saat lebaran tiba. Mengingat sebentar lagi mau lebaran, kue putri salju ini bisa anda jadikan sebagai jamuan untuk para tamu.
 
 <center><img alt="resep lengkap cara membuat kue putri salju sederhana" border="0" src="http://1.bp.blogspot.com/-DcQSl0IO9uM/VZcrXhMXNUI/AAAAAAAAAyQ/WWcWkp-xHPc/s1600/resep%2Bcara%2Bmembuat%2Bkue%2Bputri%2Bsalju.jpg" title="" /></center>
 

@@ -5,7 +5,7 @@ description:        "Ramadhan Berkah - All about Hijab and Tutorial"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/bekroon.jpg'
+background:         'assets/img/sip.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://ramadhanberkah09.github.io/
